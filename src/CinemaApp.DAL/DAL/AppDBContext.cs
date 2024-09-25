@@ -11,6 +11,8 @@ namespace CinemaApp.Data.DAL
 {
     public class AppDBContext : DbContext
     {
+        public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) { }
+
         public DbSet<User> Users { get; set; }
         public DbSet<Movie> Movies { get; set; }
         public DbSet<Theater> Theaters { get; set; }

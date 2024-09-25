@@ -1,34 +1,154 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\",
+  "WorkspaceRootPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\user\\desktop\\api\\cinemareservation\\src\\cinemaapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\user\\desktop\\api\\cinemareservation\\src\\cinemaapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\user\\desktop\\api\\cinemareservation\\src\\cinemaapp.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\user\\desktop\\api\\cinemareservation\\src\\cinemaapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|c:\\users\\user\\desktop\\api\\cinemareservation\\src\\cinemaapp.dal\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|solutionrelative:src\\cinemaapp.dal\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|c:\\users\\user\\desktop\\api\\cinemareservation\\src\\cinemaapp.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|solutionrelative:src\\cinemaapp.dal\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\user\\desktop\\api\\cinemareservation\\src\\cinemaapp.api\\cinemaapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\cinemaapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\cinemaapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\moviedtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\moviedtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\cinemaapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\cinemaapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\seatreservationdtos\\seatreservationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\seatreservationdtos\\seatreservationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\showtimedtos\\showtimeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\showtimedtos\\showtimeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\seatreservationdtos\\seatreservationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\seatreservationdtos\\seatreservationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\showtimedtos\\showtimegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\showtimedtos\\showtimegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\controllers\\theatrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\controllers\\theatrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\controllers\\showtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\controllers\\showtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\controllers\\seatreservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\controllers\\seatreservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD6C5B5-A5F2-48FE-BBED-6C69822CD127}|src\\CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:src\\cinemaapp.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\theatredtos\\theatregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\theatredtos\\theatregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\theatredtos\\theatreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\theatredtos\\theatreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\theatredtos\\theatrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\theatredtos\\theatrecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\showtimedtos\\showtimecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\showtimedtos\\showtimecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\seatreservationdtos\\seatreservationgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\seatreservationdtos\\seatreservationgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\reservationdtos\\reservationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\reservationdtos\\reservationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\reservationdtos\\reservationgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\reservationdtos\\reservationgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\reservationdtos\\reservationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\reservationdtos\\reservationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\moviedtos\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\moviedtos\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.business\\dtos\\moviedtos\\moviegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CBAF9E-F9D7-4333-8075-03E495950294}|src\\CinemaApp.Business\\CinemaApp.Business.csproj|solutionrelative:src\\cinemaapp.business\\dtos\\moviedtos\\moviegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|solutionrelative:src\\cinemaapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.dal\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E856E7-8F0A-41A9-A014-D257D10F614B}|src\\CinemaApp.DAL\\CinemaApp.Data.csproj|solutionrelative:src\\cinemaapp.dal\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\entities\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\entities\\seatreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\seatreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|c:\\users\\aliash@code.edu.az\\desktop\\home-work-back-end-11\\src\\cinemaapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09682AFA-4F19-4807-8416-B4F0496D4183}|src\\CinemaApp.Core\\CinemaApp.Core.csproj|solutionrelative:src\\cinemaapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +158,457 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CinemaApp.API",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\CinemaApp.API.csproj",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\CinemaApp.API.csproj",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\CinemaApp.API.csproj",
+              "RelativeToolTip": "src\\CinemaApp.API\\CinemaApp.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T09:57:01.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\CinemaApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T09:55:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Program.cs",
+              "RelativeToolTip": "src\\CinemaApp.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:55:02.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\appsettings.json",
+              "RelativeToolTip": "src\\CinemaApp.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T09:53:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeatReservationCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationCreateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationCreateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationCreateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeatReservationUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationUpdateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationUpdateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:59.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CinemaApp.API.http",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\CinemaApp.API.http",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\CinemaApp.API.http",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\CinemaApp.API.http",
+              "RelativeToolTip": "src\\CinemaApp.API\\CinemaApp.API.http",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-20T11:37:46.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.DAL\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "src\\CinemaApp.DAL\\DAL\\AppDBContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:31:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowTimeGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeGetDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeGetDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeGetDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:01.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TheatresController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\TheatresController.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\Controllers\\TheatresController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\TheatresController.cs",
+              "RelativeToolTip": "src\\CinemaApp.API\\Controllers\\TheatresController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAuwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:49:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShowTimesController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\ShowTimesController.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\Controllers\\ShowTimesController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\ShowTimesController.cs",
+              "RelativeToolTip": "src\\CinemaApp.API\\Controllers\\ShowTimesController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:46.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:39.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeatReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\SeatReservationsController.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\Controllers\\SeatReservationsController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\SeatReservationsController.cs",
+              "RelativeToolTip": "src\\CinemaApp.API\\Controllers\\SeatReservationsController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:31.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowTimeUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeUpdateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeUpdateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:02.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\Movie.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:11:37.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "src\\CinemaApp.API\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:25.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.API\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "src\\CinemaApp.API\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TheatreGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreGetDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreGetDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreGetDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:05.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TheatreUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreUpdateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreUpdateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:04.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TheatreCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreCreateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreCreateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreCreateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\TheatreDTOs\\TheatreCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:03.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShowTimeCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeCreateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeCreateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeCreateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\ShowTimeDTOs\\ShowTimeCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:48:00.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SeatReservationGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationGetDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationGetDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationGetDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\SeatReservationDTOs\\SeatReservationGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:58.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:15:15.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReservationUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationUpdateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationUpdateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:56.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReservationGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationGetDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationGetDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationGetDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:55.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReservationCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationCreateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationCreateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationCreateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\ReservationDTOs\\ReservationCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MovieUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieUpdateDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieUpdateDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:47.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieGetDTO.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieGetDTO.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieGetDTO.cs",
+              "RelativeToolTip": "src\\CinemaApp.Business\\DTOs\\MovieDTOs\\MovieGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "src\\CinemaApp.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Theater.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\Theater.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Theater.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\Theater.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Theater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\ShowTime.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\ShowTime.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\ShowTime.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\ShowTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SeatReservation.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\SeatReservation.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\SeatReservation.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\SeatReservation.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\SeatReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\Reservation.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:13.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Enums\\Role.cs",
+              "RelativeToolTip": "src\\CinemaApp.Core\\Enums\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:47:07.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\Repositories\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Repositories\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Repositories\\IGenericRepository.cs",
               "RelativeToolTip": "src\\CinemaApp.Core\\Repositories\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,75 +617,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 30,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\Entities\\User.cs",
               "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:13:19.505Z"
+              "WhenOpened": "2024-09-19T13:13:19.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\Entities\\Movie.cs",
-              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Movie.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\Entities\\Movie.cs",
-              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:11:37.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\Entities\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\CinemaApp.Core\\Entities\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\Entities\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "src\\CinemaApp.Core\\Entities\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:15:15.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 29,
               "Title": "MovieConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\Configurations\\MovieConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\Configurations\\MovieConfiguration.cs",
               "RelativeDocumentMoniker": "src\\CinemaApp.DAL\\Configurations\\MovieConfiguration.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\Configurations\\MovieConfiguration.cs",
+              "ToolTip": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\Configurations\\MovieConfiguration.cs",
               "RelativeToolTip": "src\\CinemaApp.DAL\\Configurations\\MovieConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAhAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:44:56.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\DAL\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "src\\CinemaApp.DAL\\DAL\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\DAL\\AppDBContext.cs",
-              "RelativeToolTip": "src\\CinemaApp.DAL\\DAL\\AppDBContext.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAIwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:31:48.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CinemaApp.API.http",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.http",
-              "RelativeDocumentMoniker": "src\\CinemaApp.API\\CinemaApp.API.http",
-              "ToolTip": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.http",
-              "RelativeToolTip": "src\\CinemaApp.API\\CinemaApp.API.http",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-20T11:37:46.177Z"
+              "WhenOpened": "2024-09-20T11:44:56.499Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CinemaApp.Business.DTOs.ShowTimeDTOs
 {
-    public record ShowTimeUpdateDTO(int Id, DateTime StartTime, DateTime EndTime, int MovieId, int TheaterId))
+    public record ShowTimeUpdateDTO(int Id, DateTime StartTime, DateTime EndTime, int MovieId, int TheaterId)
     {
     }
 }

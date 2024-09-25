@@ -116,5 +116,4 @@ namespace CinemaApp.API.Controllers
         }
     }
 
-}
-}
+

@@ -103,7 +103,7 @@ namespace CinemaApp.API.Controllers
         public async Task<ActionResult<IEnumerable<SeatReservation>>> GetSeatReservationsByShowtime(int showtimeId)
         {
             var seatReservations = await _context.SeatReservations
-                                                 .Where(sr => sr.ShowtimeId == showtimeId)
+                                                 .Where(sr => sr.ShowTimeId == showtimeId)
                                                  .ToListAsync();
 
             if (seatReservations == null || !seatReservations.Any())

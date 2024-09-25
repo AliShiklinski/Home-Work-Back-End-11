@@ -22,3 +22,16 @@ C:\Users\FA507XV\Desktop\saddasd\project\src\CinemaApp.Core\obj\Debug\net8.0\Cin
 C:\Users\FA507XV\Desktop\saddasd\project\src\CinemaApp.Core\obj\Debug\net8.0\refint\CinemaApp.Core.dll
 C:\Users\FA507XV\Desktop\saddasd\project\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.pdb
 C:\Users\FA507XV\Desktop\saddasd\project\src\CinemaApp.Core\obj\Debug\net8.0\ref\CinemaApp.Core.dll
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\bin\Debug\net8.0\CinemaApp.Core.deps.json
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\bin\Debug\net8.0\CinemaApp.Core.dll
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\bin\Debug\net8.0\CinemaApp.Core.pdb
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.csproj.AssemblyReference.cache
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.AssemblyInfoInputs.cache
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.AssemblyInfo.cs
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.sourcelink.json
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.dll
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\refint\CinemaApp.Core.dll
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.pdb
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\ref\CinemaApp.Core.dll

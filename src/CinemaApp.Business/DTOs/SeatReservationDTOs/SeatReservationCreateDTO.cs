@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CinemaApp.Business.DTOs.SeatReservationDTOs
 {
-    public class SeatReservationCreateDTO((int Id, string SeatNumber, int ShowTimeId, bool IsBooked)
+    public class SeatReservationCreateDTO(int Id, string SeatNumber, int ShowTimeId, bool IsBooked)
     {
+        
     }
 }

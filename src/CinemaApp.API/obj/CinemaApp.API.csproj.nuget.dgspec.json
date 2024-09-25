@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.csproj": {}
+    "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\CinemaApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.csproj": {
+    "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\CinemaApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\CinemaApp.API.csproj",
         "projectName": "CinemaApp.API",
-        "projectPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.API\\CinemaApp.API.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.API\\obj\\",
+        "projectPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\CinemaApp.API.csproj",
+        "packagesPath": "C:\\Users\\aliash@code.edu.az\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aliash@code.edu.az\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj"
+              "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\CinemaApp.Business.csproj": {
+                "projectPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\CinemaApp.Business.csproj"
               }
             }
           }
@@ -50,6 +53,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -74,21 +81,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj": {
+    "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\CinemaApp.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj",
-        "projectName": "CinemaApp.Core",
-        "projectPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\obj\\",
+        "projectUniqueName": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\CinemaApp.Business.csproj",
+        "projectName": "CinemaApp.Business",
+        "projectPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\CinemaApp.Business.csproj",
+        "packagesPath": "C:\\Users\\aliash@code.edu.az\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aliash@code.edu.az\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,7 +107,83 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\CinemaApp.Core.csproj": {
+                "projectPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\CinemaApp.Core.csproj"
+              },
+              "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj": {
+                "projectPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\CinemaApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\CinemaApp.Core.csproj",
+        "projectName": "CinemaApp.Core",
+        "projectPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\CinemaApp.Core.csproj",
+        "packagesPath": "C:\\Users\\aliash@code.edu.az\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aliash@code.edu.az\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -141,21 +228,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj": {
+    "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj",
         "projectName": "CinemaApp.Data",
-        "projectPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.DAL\\obj\\",
+        "projectPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\CinemaApp.Data.csproj",
+        "packagesPath": "C:\\Users\\aliash@code.edu.az\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aliash@code.edu.az\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -163,15 +254,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\api\\cinemareservation\\src\\CinemaApp.Core\\CinemaApp.Core.csproj"
+              "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\CinemaApp.Core.csproj": {
+                "projectPath": "C:\\Users\\aliash@code.edu.az\\Desktop\\Home-Work-Back-End-11\\src\\CinemaApp.Core\\CinemaApp.Core.csproj"
               }
             }
           }
@@ -212,7 +302,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
