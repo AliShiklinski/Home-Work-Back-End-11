@@ -45,3 +45,5 @@ C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.DAL\obj\
 C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.DAL\obj\Debug\net8.0\refint\CinemaApp.Data.dll
 C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.DAL\obj\Debug\net8.0\CinemaApp.Data.pdb
 C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.DAL\obj\Debug\net8.0\ref\CinemaApp.Data.dll
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.DAL\bin\Debug\net8.0\CinemaApp.Data.runtimeconfig.json
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.DAL\obj\Debug\net8.0\CinemaApp.Data.genruntimeconfig.cache

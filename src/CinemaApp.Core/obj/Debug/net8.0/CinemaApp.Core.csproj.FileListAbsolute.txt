@@ -35,3 +35,5 @@ C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj
 C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\refint\CinemaApp.Core.dll
 C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.pdb
 C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\ref\CinemaApp.Core.dll
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\bin\Debug\net8.0\CinemaApp.Core.runtimeconfig.json
+C:\Users\aliash@code.edu.az\Desktop\Home-Work-Back-End-11\src\CinemaApp.Core\obj\Debug\net8.0\CinemaApp.Core.genruntimeconfig.cache

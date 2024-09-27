@@ -24,5 +24,36 @@ namespace CinemaApp.Data.Configurations
         }
 
     }
-    
+
+    public class SeatReservationConfiguration: IEntityTypeConfiguration<SeatReservation>
+    {
+        public void Configure(EntityTypeBuilder<SeatReservation> builder)
+        {
+            builder.HasOne
+                (x=>x.ShowTime).WithMany(x=>x.SeatReservations).OnDelete(DeleteBehavior.NoAction);
+            builder.HasOne
+                (x => x.User).WithMany(x => x.SeatReservations).OnDelete(DeleteBehavior.NoAction);
+            
+        }
+
+    }
+    public class ShowTimeConfiguration : IEntityTypeConfiguration<ShowTime>
+    {
+        public void Configure(EntityTypeBuilder<ShowTime> builder)
+        {
+            builder.HasMany
+                (x => x.SeatReservations).WithOne(x => x.ShowTime).OnDelete(DeleteBehavior.NoAction);
+        }
+
+    }
+
+    public class UserConfiguration : IEntityTypeConfiguration<User>
+    {
+        public void Configure(EntityTypeBuilder<User> builder)
+        {
+            builder.HasMany
+                (x => x.SeatReservations).WithOne(x => x.User).OnDelete(DeleteBehavior.NoAction);
+        }
+
+    }
 }

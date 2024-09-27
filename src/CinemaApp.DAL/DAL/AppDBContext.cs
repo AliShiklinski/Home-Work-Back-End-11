@@ -1,4 +1,6 @@
 ﻿using CinemaApp.Core.Entities;
+using CinemaApp.Data.Configurations;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -9,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace CinemaApp.Data.DAL
 {
-    public class AppDBContext : DbContext
+    public class AppDBContext : IdentityDbContext<User>
     {
         public AppDBContext(DbContextOptions<AppDBContext> options) : base(options) { }
 
@@ -22,25 +24,8 @@ namespace CinemaApp.Data.DAL
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<User>()
-                .HasMany(u => u.Reservations)
-                .WithOne(r => r.User);
-
-            modelBuilder.Entity<Movie>()
-                .HasMany(m => m.ShowTimes)
-                .WithOne(s => s.Movie);
-
-            modelBuilder.Entity<Theater>()
-                .HasMany(t => t.ShowTimes)
-                .WithOne(s => s.Theater);
-
-            modelBuilder.Entity<ShowTime>()
-                .HasMany(s => s.SeatReservations)
-                .WithOne(sr => sr.ShowTime);
-
-            modelBuilder.Entity<Reservation>()
-                .HasMany(r => r.SeatReservations)
-                .WithOne(sr => sr.Reservation);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(MovieConfiguration).Assembly);
+            base.OnModelCreating(modelBuilder);
         }
     }
 }
